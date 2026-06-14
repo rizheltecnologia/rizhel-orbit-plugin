@@ -1,0 +1,16 @@
+{
+  "name": "rizhel-orbit",
+  "displayName": "Rizhel Orbit",
+  "description": "Gerencie projetos e tarefas do Rizhel Orbit diretamente no Claude. Liste projetos, crie e atualize tarefas, e conclua itens sem sair do terminal.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rizhel",
+    "url": "https://rizhel.com.br"
+  },
+  "homepage": "https://orbit.rizhel.com.br",
+  "repository": "https://github.com/rizhel/rizhel-orbit-plugin",
+  "license": "MIT",
+  "keywords": ["tasks", "projects", "productivity", "saas", "pt-br"],
+  "categories": ["productivity"],
+  "mcpServers": ["rizhel"]
+}
