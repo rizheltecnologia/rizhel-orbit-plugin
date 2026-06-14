@@ -1,0 +1,27 @@
+{
+  "name": "rizhel-orbit",
+  "owner": {
+    "name": "Rizhel",
+    "url": "https://rizhel.com.br"
+  },
+  "description": "Plugins oficiais da plataforma Rizhel Orbit",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "rizhel-orbit-plugin",
+      "displayName": "Rizhel Orbit",
+      "source": "./",
+      "description": "Gerencie projetos e tarefas do Rizhel Orbit diretamente no Claude Code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rizhel",
+        "url": "https://rizhel.com.br"
+      },
+      "homepage": "https://orbit.rizhel.com.br",
+      "repository": "https://github.com/rizheltecnologia/rizhel-orbit-plugin",
+      "license": "MIT",
+      "keywords": ["rizhel", "orbit", "tarefas", "projetos", "pt-br"],
+      "category": "productivity"
+    }
+  ]
+}

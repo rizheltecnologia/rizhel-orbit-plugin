@@ -5,7 +5,8 @@ Gerencie projetos e tarefas do [Rizhel Orbit](https://orbit.rizhel.com.br) diret
 ## Instalação
 
 ```bash
-claude plugin install rizhel/rizhel-orbit-plugin
+claude plugin marketplace add rizheltecnologia/rizhel-orbit-plugin
+claude plugin install rizhel-orbit-plugin@rizhel-orbit
 ```
 
 Ao instalar pela primeira vez, o Claude Code abrirá o navegador para autenticar com sua conta Rizhel Orbit. Selecione o workspace que deseja conectar e autorize o acesso.
